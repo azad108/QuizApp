@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">A4</string>
+    <string name="lblName">Name</string>
+    <string name="txtName" />
+    <string name="lblCopyright">Copyright ©a55rahma</string>
+    <string name="btnNext">Next</string>
+    <string name="topic_selection">Topic Selection</string>
+    <string name="lblWelcome">Welcome</string>
+    <string name="btnLogoutSel">Logout</string>
+    <string name="curr_user">curr user</string>
+    <string name="lblTopicQ">Topic</string>
+    <string name="lblNumQ"># of Questions</string>
+    <string name="lblWorldFlag">World Flag</string>
+    <string name="btnLoadQ">Load</string>
+    <string name="lblCurrUserQ1">curr user</string>
+    <string name="btnLogoutQ">Logout</string>
+    <string name="lblQuestion1">Q1: Select the country that has this flag</string>
+    <string name="lblQuestion3">Q3: Select the country that has this flag</string>
+    <string name="lblQuestion4">Q4: Select the country that has this flag</string>
+    <string name="imgCanada" />
+    <string name="lblNameQ1">Name:</string>
+    <string name="radio1">Canada</string>
+    <string name="radio2">Taiwan</string>
+    <string name="radio3">China</string>
+    <string name="radio4">Peru</string>
+    <string name="radio31">Netherlands</string>
+    <string name="radio32">Taiwan</string>
+    <string name="radio33">China</string>
+    <string name="radio34">Slovakia</string>
+    <string name="radio41">Canada</string>
+    <string name="radio42">India</string>
+    <string name="radio43">Brazil</string>
+    <string name="radio44">South Korea</string>
+    <string name="btnPrevQ1">Previous</string>
+    <string name="btnNextQ1">Next</string>
+    <string name="lblQTwo">2/2</string>
+    <string name="lblNameQ2">Name:</string>
+    <string name="lblQuestion2">Q2: Select the countries that have these flags</string>
+    <string name="lblQuestion5">Q5: Select the countries that have these flags</string>
+    <string name="btnTopicSel">Topic Selection</string>
+    <string name="lblScore">Your Score: 0/2</string>
+    <string name="lblQOne">1/2</string>
+    <string name="chk1">Brazil</string>
+    <string name="chk2">Ivory Coast</string>
+    <string name="chk4">Luxembourg</string>
+    <string name="chk3">Argentina</string>
+    <string name="chk51">Canada</string>
+    <string name="chk52">Taiwan</string>
+    <string name="chk53">South Africa</string>
+    <string name="chk54">United Kingdom</string>
+    <string name="imgBraArg" />
+    <string name="imgChina" />
+    <string name="imgSouthKorea" />
+    <string name="imgTaiUK" />
+    <string-array name="numSelectionsArr">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
